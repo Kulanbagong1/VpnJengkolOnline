@@ -3,7 +3,7 @@
 # gift alok mhanx #
 
 ## install sslh #
-wget https://raw.githubusercontent.com/fisabiliyusri/MANTAPV3/main/sslh/sslh.sh && chmod +x sslh.sh && ./sslh.sh
+wget https://raw.githubusercontent.com/Kulanbagong1/VpnJengkolOnline/main/sslh/sslh.sh && chmod +x sslh.sh && ./sslh.sh
 sleep 1
 
 ## install stunnel5 ##
