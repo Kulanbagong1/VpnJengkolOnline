@@ -11,5 +11,5 @@ wget https://raw.githubusercontent.com/Kulanbagong1/VpnJengkolOnline/main/stunne
 sleep 1
 
 ## install ssh websocket ##
-wget https://raw.githubusercontent.com/fisabiliyusri/MANTAPV3/main/websocket/ws-only.sh && chmod +x ws-only.sh && ./ws-only.sh
+wget https://raw.githubusercontent.com/Kulanbagong1/VpnJengkolOnline/main/websocket/ws-only.sh && chmod +x ws-only.sh && ./ws-only.sh
 sleep 1
