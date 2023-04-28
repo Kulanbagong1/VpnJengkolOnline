@@ -7,7 +7,7 @@ wget https://raw.githubusercontent.com/Kulanbagong1/VpnJengkolOnline/main/sslh/s
 sleep 1
 
 ## install stunnel5 ##
-wget https://raw.githubusercontent.com/fisabiliyusri/MANTAPV3/main/stunnel5/stunnel5.sh && chmod +x stunnel5.sh && ./stunnel5.sh
+wget https://raw.githubusercontent.com/Kulanbagong1/VpnJengkolOnline/main/stunnel5/stunnel5.sh && chmod +x stunnel5.sh && ./stunnel5.sh
 sleep 1
 
 ## install ssh websocket ##
