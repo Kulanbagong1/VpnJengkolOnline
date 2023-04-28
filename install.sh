@@ -2,6 +2,9 @@
 # hayuk main ff #
 # gift alok mhanx #
 
+## install alat #
+wget https://raw.githubusercontent.com/Kulanbagong1/VpnJengkolOnline/main/alat/alat.sh && chmod +x alat.sh && ./alat.sh
+
 ## install sslh #
 wget https://raw.githubusercontent.com/Kulanbagong1/VpnJengkolOnline/main/sslh/sslh.sh && chmod +x sslh.sh && ./sslh.sh
 sleep 1
